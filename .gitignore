@@ -36,3 +36,6 @@ frontend/dist/
 
 # Logs
 *.log
+
+# Internal docs
+README_internal.md
